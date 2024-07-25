@@ -1,2 +1,2 @@
 # ExternalBunny
-External BunnyHop script for Counter-Strike: Source
+Yazılım güncel değil sadece oyunun son sürümüne uygun olarak hazırlanmıstır isteyen gelistirebilir
