@@ -4,7 +4,7 @@ using namespace DataSpoof;
 
 constexpr int FL_ONGROUND = (1 << 0);
 const int JUMP = 5;
-const int STAY = 4;
+const int STAY = 5;
 
 void JumpQueue()
 {
